@@ -1,0 +1,25 @@
+.logo {
+    width: 20px;
+    height: 10px;
+    display: flex;
+    flex-direction: column;
+    float: left;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    float: right;
+}
+
+
+.logotipo {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.hrcima {
+    margin-top: 150px;
+}
+
